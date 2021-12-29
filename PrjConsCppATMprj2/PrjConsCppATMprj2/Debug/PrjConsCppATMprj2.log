@@ -1,0 +1,10 @@
+﻿  ATMmain.cpp
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\Myfuntionsatm.h(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\Myfuntionsatm.h(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\Myfuntionsatm.h(155,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\Myfuntionsatm.h(188,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\Myfuntionsatm.h(251,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\ATMmain.cpp(24,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\ATMmain.cpp(34,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\PrjConsCppATMprj2\Myfuntionsatm.h(83): warning C4715: 'findAccount': not all control paths return a value
+  PrjConsCppATMprj2.vcxproj -> C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\Algorithms & Programming\AP17263\ATMfinal\PrjConsCppATMprj2\Debug\PrjConsCppATMprj2.exe

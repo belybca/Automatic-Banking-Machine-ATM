@@ -1,0 +1,60 @@
+CP001
+Bill Gates
+windows
+4000800.00
+CP002
+Musab Zamora
+escarabajo
+500000.00
+CP003
+Mildred Swanson
+tomorrow
+380.00
+CP004
+Marwan Ford
+mozilla
+85440.00
+CP005
+Amelie Pacheco
+google
+7400000.00
+CP006
+Julian Booker
+today
+85000.00
+CP007
+Ruairidh Buck
+yesterday
+39999800.00
+CP008
+Randy Heaton
+yellowsubmarine
+500200.00
+CP009
+Jethro Brett
+thunderstorm
+6020000.00
+CP010
+Eamon Erickson
+pollito
+7800000.00
+CP011
+Milli Rodriquez
+vector
+7500000.00
+CP012
+Abdurahman Guthrie
+picasso
+560000.00
+CP013
+Darrell Knowles
+darktower
+1999600.00
+CP014
+Malika Sawyer
+chirere
+6987613.00
+CP015
+Belinda Pitt
+winter
+780005.00
