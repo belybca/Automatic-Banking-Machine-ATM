@@ -1,4 +1,4 @@
-# Automatic-Banking-Machine-ATM 
+# Automated-Banking-Machine-ATM 
 April 2021
 Academic project created for the course ALGORITHM – DATA STRUCT-PROGRAMMING
 This is a program in console mode with the C ++ language that simulates banking transactions at an ATM in a FRENCH language interface.
